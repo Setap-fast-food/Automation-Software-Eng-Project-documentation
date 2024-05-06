@@ -1,10 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to the documentation for Setap Automation Software Project !
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Setap Automation Software Project**  Is a Flutter project for restraunts and food vendors
+It contains two major Graphical User Interface elements, a Kitchen Screen and a Till Screen.
+
+It Uses Firebase Realtime Database to log orders placed on the till interface
+and then displays them on the kitchen screen.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
