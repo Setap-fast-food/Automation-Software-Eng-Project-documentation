@@ -1,5 +1,5 @@
 Welcome to the documentation for Setap Automation Software Project !
-===================================
+====================================================================
 
 **Setap Automation Software Project**  Is a Flutter project for restraunts and food vendors
 It contains two major Graphical User Interface elements, a Kitchen Screen and a Till Screen.
