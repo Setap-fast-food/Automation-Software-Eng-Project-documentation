@@ -6,29 +6,22 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use the project, you must first download it using github. As long as the project in its entirety has been downloaded,
+Both the software and the realtime database will function correctly.
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+Use Cases
+---------
 
-Creating recipes
-----------------
+To place an order and commit the details of the order to the firebase database,
+The user must run the program and then navigate to the till screen.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Once on the till screen, use the Plus and Minus buttons to add foods to your order.
 
-.. autofunction:: lumache.get_random_ingredients
+Finally, click the Pay button to send the order data along with the name to the database.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+To View any previously created orders, navigate to the kitchen screen from the main menu.
 
-For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
