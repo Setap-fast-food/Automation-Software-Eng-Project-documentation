@@ -9,6 +9,16 @@ Installation
 To use the project, you must first download it using github. As long as the project in its entirety has been downloaded,
 Both the software and the realtime database will function correctly.
 
+Using your flutter IDE of choice run 
+
+flutter doctor, #used to make sure all necessary tools are downloaded
+flutter clean, #clears the flutter build cache
+flutter pub get, #forces flutter to search for and install dependenies in the .yaml file
+flutter build web, #builds the current version of the project.
+
+after having fetched the dependencies and built the project,
+use flutter run to run the program
+
 
 Use Cases
 ---------
