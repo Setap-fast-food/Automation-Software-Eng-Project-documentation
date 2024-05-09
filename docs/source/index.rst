@@ -19,5 +19,7 @@ Contents
 
 .. toctree::
 
+   Scope
+   Build
    usage
    api
