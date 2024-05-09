@@ -26,7 +26,7 @@ Use Cases
 To place an order and commit the details of the order to the firebase database,
 The user must run the program and then navigate to the till screen.
 
-Once on the till screen, use the Plus and Minus buttons to add foods to your order.
+Once on the till screen, use the + and - buttons to add foods to your order.
 
 Finally, click the Pay button to send the order data along with the name to the database.
 
