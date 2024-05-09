@@ -20,6 +20,7 @@ Contents
 .. toctree::
 
    Scope
+   User Requirements
    Build
    usage
    api
