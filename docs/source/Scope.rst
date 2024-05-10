@@ -16,7 +16,8 @@ The Kitchen will display all current orders in the database via one of two metho
 Active Orders - This is the default setting of all orders submitted to the database. These orders are also displayed by default when the user
 first logs into the kitchen screen.
 
-.. figure:: /images/active_orders.png
+.. figure:: Automation-Software-Eng-Project-documentation/images/active_orders.PNG
+/active_orders.PNG
     :allign: center
     :alt: Active Orders
     :scale: 30%
