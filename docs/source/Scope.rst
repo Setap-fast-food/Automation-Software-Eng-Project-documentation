@@ -16,9 +16,10 @@ The Kitchen will display all current orders in the database via one of two metho
 Active Orders - This is the default setting of all orders submitted to the database. These orders are also displayed by default when the user
 first logs into the kitchen screen.
 
-.. image:: /images/active_orders.png
-:width: 400
-:alt: Active Orders
+.. figure:: /images/active_orders.png
+    :allign: center
+    :alt: Active Orders
+    :scale: 30%
 
 Completed Orders - These are orders displayed under the completed order tag and can be manually toggled by the user,
 a process further described below.
