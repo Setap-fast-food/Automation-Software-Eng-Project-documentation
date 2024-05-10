@@ -25,8 +25,8 @@ Completed Orders - These are orders displayed under the completed order tag and 
 a process further described below.
 
 .. image:: /images/completed_orders.png
-:width: 400
-:alt: Completed Orders
+    :target: /images/completed_orders.html
+    :alt: Completed Orders
 
 Order Completion - when the user wants to change an order from active to completed,
 they can press the button on the order tab labelled as a forward facing arrow.
