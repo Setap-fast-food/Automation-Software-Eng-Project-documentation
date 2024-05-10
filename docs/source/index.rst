@@ -21,6 +21,6 @@ Contents
 
    Scope
    User Requirements
-   Build
+   build
    usage
    api
