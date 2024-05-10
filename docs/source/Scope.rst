@@ -24,10 +24,7 @@ first logs into the kitchen screen.
 Completed Orders - These are orders displayed under the completed order tag and can be manually toggled by the user,
 a process further described below.
 
-.. figure:: images/completed_orders.PNG
-    :align: center
-    :alt: Active Orders
-    :scale: 30%
+
 
 Order Completion - when the user wants to change an order from active to completed,
 they can press the button on the order tab labelled as a forward facing arrow.
@@ -38,8 +35,5 @@ Login Functionality
 The functionality of the login screen is purely to assure secure access to the kitchen screen.
 The user must input the valid passcode using either the keypad UI or a connected input device.
 
-.. figure:: images/login_screen.PNG
-    :align: center
-    :alt: Active Orders
-    :scale: 30%
+
 
